@@ -39,7 +39,7 @@ const Integrations = ({ slice }: IntegrationsProps): JSX.Element => {
           alt=""
           fill
           className="object-cover"
-          quality={90}
+          quality={95}
       />
       <StarBackground/>
       <div className="relative">
