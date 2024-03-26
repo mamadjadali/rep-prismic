@@ -52,7 +52,7 @@ const Bento = ({ slice }: BentoProps): JSX.Element => {
               <div className="max-w-md text-balance text-slate-300">
                 <PrismicRichText field={item.body} />
               </div>
-              <PrismicNextImage field={item.image} className="max-h-36 w-auto" />
+              <PrismicNextImage field={item.image} className="h-auto" />
             </div>
         ))}
       </div>
