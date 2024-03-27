@@ -23,7 +23,7 @@ export default function NavBar({ settings }: NavBarProps) {
                 <div className="flex items-center justify-between">
                     <Link href="/" className="z-50" onClick={() => setOpen(false)}>
                         <WordMark />
-                        <span className="sr-only">Glisten.ai Home Page</span>
+                        <span className="sr-only">REP Home Page</span>
                     </Link>
                     <button
                         type="button"
