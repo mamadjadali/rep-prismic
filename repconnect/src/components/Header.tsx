@@ -1,4 +1,3 @@
-import WordMark from "@/components/WordMark";
 import NavBar from "@/components/NavBar";
 import {createClient} from "@/prismicio";
 

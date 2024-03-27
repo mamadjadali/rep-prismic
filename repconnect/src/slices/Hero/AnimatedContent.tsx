@@ -2,7 +2,7 @@
 
 import React, {useRef} from "react";
 import {Content, isFilled} from "@prismicio/client";
-import {PrismicText, SliceComponentProps} from "@prismicio/react";
+import {PrismicText} from "@prismicio/react";
 import {PrismicNextImage} from "@prismicio/next";
 import ButtonLink from "@/components/ButtonLink";
 import StarGrid from "@/components/StarGrid";

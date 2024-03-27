@@ -1,9 +1,6 @@
-import {Content, isFilled} from "@prismicio/client";
-import {PrismicRichText, PrismicText, SliceComponentProps} from "@prismicio/react";
-import {PrismicNextImage} from "@prismicio/next";
-import ButtonLink from "@/components/ButtonLink";
+import {Content} from "@prismicio/client";
+import {SliceComponentProps} from "@prismicio/react";
 import Bounded from "@/components/Bounded";
-import StarGrid from "@/components/StarGrid";
 import AnimatedContent from "@/slices/Hero/AnimatedContent";
 
 /**

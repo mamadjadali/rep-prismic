@@ -1,7 +1,6 @@
 import {asText, Content} from "@prismicio/client";
 import {PrismicRichText, PrismicText, SliceComponentProps} from "@prismicio/react";
 import {PrismicNextImage} from "@prismicio/next";
-import {item} from "slice-machine-ui/src/components/List/List.css";
 import Bounded from "@/components/Bounded";
 import clsx from "clsx";
 

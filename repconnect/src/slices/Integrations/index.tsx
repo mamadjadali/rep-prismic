@@ -5,10 +5,6 @@ import StarBackground from "@/slices/Integrations/StarBackground";
 import Image from "next/image";
 import background from "./background.jpg";
 import React from "react";
-import { SiWireguard, SiFortinet, SiMikrotik, SiDell, SiCisco, SiVmware } from "react-icons/si";
-
-import StylizedLogoMark from "@/slices/Integrations/StylizedLogoMark";
-import clsx from "clsx";
 import AnimatedContent from "@/slices/Integrations/AnimatedContent";
 
 /**
