@@ -36,7 +36,9 @@
             "placeholder": "",
             "options": [
               "gear",
-              "cycle"
+              "cycle",
+              "contact",
+              "pin"
             ]
           }
         },
@@ -108,7 +110,9 @@
             "placeholder": "",
             "options": [
               "gear",
-              "cycle"
+              "cycle",
+              "contact",
+              "pin"
             ]
           }
         },
