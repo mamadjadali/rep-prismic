@@ -38,7 +38,8 @@
               "gear",
               "cycle",
               "contact",
-              "pin"
+              "pin",
+              "rocket"
             ]
           }
         },
@@ -112,7 +113,8 @@
               "gear",
               "cycle",
               "contact",
-              "pin"
+              "pin",
+              "rocket"
             ]
           }
         },

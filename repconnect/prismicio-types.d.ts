@@ -751,7 +751,7 @@ export interface ShowcaseSliceDefaultPrimary {
    * - **API ID Path**: showcase.primary.icon
    * - **Documentation**: https://prismic.io/docs/field#select
    */
-  icon: prismic.SelectField<"gear" | "cycle" | "contact" | "pin">;
+  icon: prismic.SelectField<"gear" | "cycle" | "contact" | "pin" | "rocket">;
 
   /**
    * Subheading field in *Showcase → Primary*
@@ -839,7 +839,7 @@ export interface ShowcaseSliceReversePrimary {
    * - **API ID Path**: showcase.primary.icon
    * - **Documentation**: https://prismic.io/docs/field#select
    */
-  icon: prismic.SelectField<"gear" | "cycle" | "contact" | "pin">;
+  icon: prismic.SelectField<"gear" | "cycle" | "contact" | "pin" | "rocket">;
 
   /**
    * Subheading field in *Showcase → Primary*

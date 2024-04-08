@@ -73,7 +73,7 @@
 			},
 			"icon": {
 				"__TYPE__": "FieldContent",
-				"value": "gear",
+				"value": "cycle",
 				"type": "Select"
 			}
 		},
@@ -124,7 +124,7 @@
 			},
 			"icon": {
 				"__TYPE__": "FieldContent",
-				"value": "cycle",
+				"value": "gear",
 				"type": "Select"
 			},
 			"subheading": {

@@ -7,13 +7,14 @@ import clsx from "clsx";
 import { PiArrowsClockwise, PiGear } from "react-icons/pi";
 import AnimatedContent from "@/slices/Showcase/AnimatedContent";
 import { MdConnectWithoutContact, MdOutlineShareLocation } from "react-icons/md";
-
+import { BsRocket } from "react-icons/bs";
 
 const icons = {
   gear: <PiGear />,
   cycle: <PiArrowsClockwise />,
   contact: <MdConnectWithoutContact />,
   pin : <MdOutlineShareLocation />,
+  rocket: <BsRocket />,
 };
 
 /**
